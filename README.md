@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohithER
+- 👋 Hi, I’m Rohith E R
 - 👀 I’m interested in backend development, Go programming, and building web applications.
 - 🌱 I’m currently learning more about distributed systems and real-time communication technologies.
 - 💞️ I’m looking to collaborate on projects related to web development, particularly those involving backend systems and video conferencing.
