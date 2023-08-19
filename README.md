@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @RohithER
+- 👀 I’m interested in backend development, Go programming, and building web applications.
+- 🌱 I’m currently learning more about distributed systems and real-time communication technologies.
+- 💞️ I’m looking to collaborate on projects related to web development, particularly those involving backend systems and video conferencing.
+- 📫 How to reach me:
+  - Email: rohither12@outlook.com or rohithlellu7@gmail.com
+  - Phone: +918606892328
+  - LinkedIn: https://www.linkedin.com/in/rohither
+- 💼 I'm a backend Go (Golang) developer with a focus on creating efficient and scalable systems.
+- 🚀 Currently, I'm working on an exciting project—an innovative video conferencing, video streaming and chat web application aimed at providing seamless remote communication experiences.
+- 📚 I believe in continuous learning and I'm passionate about exploring new technologies to enhance the performance and capabilities of software systems.
+- ⚡ Fun fact: When I'm not coding, you can find me exploring hiking trails and capturing the beauty of nature through my camera lens.
