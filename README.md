@@ -5,8 +5,7 @@
 - 📫 How to reach me:
   - Email: rohither12@outlook.com or rohithlellu7@gmail.com
   - Phone: +918606892328
-  - LinkedIn: https://www.linkedin.com/in/rohither
-- 💼 I'm a backend Go (Golang) developer with a focus on creating efficient and scalable systems.
-- 🚀 Currently, I'm working on an exciting project—an innovative video conferencing, video streaming and chat web application aimed at providing seamless remote communication experiences.
+  - LinkedIn: [https://www.linkedin.com/in/rohither](https://www.linkedin.com/in/rohither)
+- 💼 I'm a self-taught backend Go (Golang) developer with a focus on creating efficient and scalable systems.
+- 🚀 Currently, I'm working on an exciting project—an innovative video conferencing, video streaming, and chat web application aimed at providing seamless remote communication experiences.
 - 📚 I believe in continuous learning and I'm passionate about exploring new technologies to enhance the performance and capabilities of software systems.
-- ⚡ Fun fact: When I'm not coding, you can find me exploring hiking trails and capturing the beauty of nature through my camera lens.
