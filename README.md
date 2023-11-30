@@ -1,13 +1,30 @@
-# 👋 Hi, I’m Rohith E R
+<h1 align="center">Rohith E R</h1>
+<h2 align="center">Backend Go Developer</h2>
 
-Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
+<img src="https://i.imgur.com/avatar.png" alt="Rohith E R" width="200" height="200" align="center" />
 
-## Currently Working On
-[**rean connect**](https://70off.online): Video conferencing, streaming, and chat web app for seamless remote communication.
+<ul>
+  <li>Backend Development</li>
+  <li>Go Programming</li>
+  <li>Web Applications</li>
+</ul>
 
-## How to Reach Me
-- **Email:** [rohither12@outlook.com](mailto:rohither12@outlook.com) or [rohithlellu7@gmail.com](mailto:rohithlellu7@gmail.com)
-- **Phone:** [+917907726405](tel:+917907726405), [+918606892328](tel:+918606892328)
+<ul>
+  <li>Go (Golang)</li>
+  <li>REST APIs</li>
+  <li>Databases</li>
+</ul>
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohither) [![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://github.com/RohithER12) [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-red)](https://leetcode.com/rohithlellu7/)
+<p>Self-taught backend Go (Golang) developer with a focus on creating efficient and scalable systems.</p>
+
+<p>**Working On:** rean connect - An innovative video conferencing, video streaming, and chat web application aimed at providing seamless remote communication experiences.</p>
+
+<h4>How to reach me:</h4>
+<ul>
+  <li>Email: rohither12@outlook.com or rohithlellu7@gmail.com</li>
+  <li>Phone: +917907726405 , +918606892328</li>
+  <li>LinkedIn: [Link to your LinkedIn profile]</li>
+  <li>Medium: [Link to your Medium profile]</li>
+  <li>LeetCode: [Link to your LeetCode profile]</li>
+</ul>
+
