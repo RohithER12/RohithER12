@@ -5,18 +5,12 @@
  - Working On: [rean connect](https://70off.online)
  
    an innovative video conferencing, video streaming, and chat web application aimed at providing seamless remote communication experiences.
-    
- - Others:
- 
-   [medium](https://github.com/RohithER12)
-   
-   [leetcode](https://leetcode.com/rohithlellu7/)
-   
+     
  - How to reach me:
  
    Email: rohither12@outlook.com or rohithlellu7@gmail.com
    
    Phone: +917907726405 , +918606892328
    
-   [linkedIn](https://www.linkedin.com/in/rohither)
+   [linkedIn](https://www.linkedin.com/in/rohither)    [medium](https://github.com/RohithER12)     [leetcode](https://leetcode.com/rohithlellu7/)
 
