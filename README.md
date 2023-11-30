@@ -1,5 +1,4 @@
-
-
+  
 # Hi, I'm Rohith E R
 
 Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
@@ -13,6 +12,7 @@ Backend developer passionate about Go programming and web applications. Self-tau
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohither) [![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://github.com/RohithER12) [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-red)](https://leetcode.com/rohithlellu7/)
+
 <p align="right">
   <img src="https://your-gopher-sticker-url-here" alt="Gopher" width="100">
 </p>
