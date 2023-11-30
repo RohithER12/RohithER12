@@ -3,7 +3,7 @@
 - How to reach me:
   - Email: rohither12@outlook.com or rohithlellu7@gmail.com
   - Phone: +917907726405 , +918606892328
-  - Working On: [REAN connect](https://70off.online)
+- Working On: [REAN connect](https://70off.online)
   
       - [Medium](https://github.com/RohithER12)
       - [LeetCode](https://leetcode.com/rohithlellu7/)
