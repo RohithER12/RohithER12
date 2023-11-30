@@ -12,5 +12,5 @@
    
    Phone: +917907726405 , +918606892328
    
-   [linkedIn](https://www.linkedin.com/in/rohither)    [medium](https://github.com/RohithER12)     [leetcode](https://leetcode.com/rohithlellu7/)
+[LinkedIn](https://www.linkedin.com/in/rohither) &nbsp; [Medium](https://github.com/RohithER12) &nbsp; [LeetCode](https://leetcode.com/rohithlellu7/)
 
