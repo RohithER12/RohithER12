@@ -3,7 +3,7 @@
 
 &nbsp; &nbsp; &nbsp;Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
 
-### Currently Working On
+### Working On
 &nbsp; &nbsp; &nbsp;[**rean connect**](https://70off.online): Video conferencing, streaming, and chat web app for seamless remote communication.
 
 ### How to Reach Me
