@@ -5,7 +5,7 @@
   - Phone: +917907726405 , +918606892328
 - Working On: [REAN connect](https://70off.online)
   
-      - [Medium](https://github.com/RohithER12)
+  - [Medium](https://github.com/RohithER12)
       - [LeetCode](https://leetcode.com/rohithlellu7/)
       - [LinkedIn](https://www.linkedin.com/in/rohither)
 - I'm a self-taught backend Go (Golang) developer with a focus on creating efficient and scalable systems.
