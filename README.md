@@ -4,6 +4,7 @@
   - Email: rohither12@outlook.com or rohithlellu7@gmail.com
   - Phone: +917907726405 , +918606892328
 - Working On: [rean connect](https://70off.online)
+- Others:
   - [medium](https://github.com/RohithER12)
   - [leetcode](https://leetcode.com/rohithlellu7/)
   - [linkedIn](https://www.linkedin.com/in/rohither)
