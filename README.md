@@ -13,5 +13,5 @@
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohither)
-[![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://github.com/RohithER12)
+[![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://medium.com/@rohithlellu7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-red)](https://leetcode.com/rohithlellu7/)
