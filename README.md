@@ -4,10 +4,10 @@
 &nbsp; &nbsp; &nbsp;Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
 
 ### Working On
-&nbsp; &nbsp; &nbsp;[**rean connect**](https://70off.online): Video conferencing, streaming, and chat web app for seamless remote communication.
+&nbsp; &nbsp; &nbsp;[**rean connect**](https://github.com/Reanwebs): Video conferencing, streaming, and chat web app for seamless remote communication.
 
 ### Experiencing
-&nbsp; &nbsp; &nbsp;**Fin Tech**
+&nbsp; &nbsp; &nbsp;**Fin Tech Application**
 
 ### How to Reach Me
 &nbsp; &nbsp; &nbsp;**Email:** [rohither12@gmail.com](mailto:rohither12@gmail.com)
