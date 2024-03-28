@@ -4,7 +4,7 @@
 &nbsp; &nbsp; &nbsp;Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
 
 ### Working On
-&nbsp; &nbsp; &nbsp;[**Fin Tech**]
+&nbsp; &nbsp; &nbsp;**Fin Tech**
 
 ### How to Reach Me
 &nbsp; &nbsp; &nbsp;**Email:** [rohither12@gmail.com](mailto:rohither12@gmail.com)
