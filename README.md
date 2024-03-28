@@ -1,7 +1,7 @@
   
 ### Hi, I'm Rohith E R
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
+&nbsp; &nbsp; &nbsp;Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
 
 ### Working On
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[**rean connect**](https://github.com/Reanwebs): Video conferencing, streaming, and chat web app for seamless remote communication.
