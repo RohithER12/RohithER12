@@ -4,15 +4,15 @@
 &nbsp; &nbsp; &nbsp;Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
 
 ### Working On
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[**rean connect**](https://github.com/Reanwebs): Video conferencing, streaming, and chat web app for seamless remote communication.
+&nbsp; &nbsp; &nbsp;[**rean connect**](https://github.com/Reanwebs): Video conferencing, streaming, and chat web app for seamless remote communication.
 
 ### Experiencing
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Fin Tech Application**<font color="green">
+ &nbsp; &nbsp; &nbsp;**Fin Tech Application**<font color="green">
 
 ### How to Reach Me
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Email:** [rohither12@gmail.com](mailto:rohither12@gmail.com)
+&nbsp; &nbsp; &nbsp;**Email:** [rohither12@gmail.com](mailto:rohither12@gmail.com)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Phone:** [+917907726405](tel:+917907726405), [+918606892328](tel:+918606892328)
+ &nbsp; &nbsp; &nbsp;**Phone:** [+917907726405](tel:+917907726405), [+918606892328](tel:+918606892328)
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohither)
