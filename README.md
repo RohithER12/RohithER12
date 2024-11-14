@@ -3,9 +3,6 @@
 
 &nbsp; &nbsp; &nbsp;Backend developer passionate about Go programming and web applications. Self-taught with a focus on efficient and scalable systems.
 
-### Working On
-&nbsp; &nbsp; &nbsp;[**rean connect**](https://github.com/Reanwebs): Video conferencing, streaming, and chat web app for seamless remote communication.
-
 ### Experiencing
  &nbsp; &nbsp; &nbsp;**Fin Tech Application**<font color="green">
 
