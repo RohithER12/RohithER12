@@ -9,7 +9,7 @@
 ### How to Reach Me
 &nbsp; &nbsp; &nbsp;**Email:** [rohither12@gmail.com](mailto:rohither12@gmail.com)
 
- &nbsp; &nbsp; &nbsp;**Phone:** [+917907726405](tel:+917907726405), [+918606892328](tel:+918606892328)
+ &nbsp; &nbsp; &nbsp;**Phone:** [+917907726405](tel:+917907726405)
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rohither)
